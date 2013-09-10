@@ -1,0 +1,7 @@
+{
+  "name": "hoodie-plugin-email",
+  "description": "Hoodie plugin that sends multipart emails",
+  "dependencies": {},
+  "version": "0.1.0",
+  "main": "worker.js"
+}
