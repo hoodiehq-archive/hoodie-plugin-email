@@ -4,7 +4,7 @@
 // back to email tasks
 module.exports = function(hoodie, doneCallback) {
 
-  hoodie.task.on('add:email', handleNewEmail);
+  hoodie.task.on('email:add', handleNewEmail);
 
   function handleNewEmail(dbName, email) {
     hoodie.sendEmail(email, function(error) {
