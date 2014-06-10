@@ -2,7 +2,7 @@
   "name": "hoodie-plugin-email",
   "description": "Hoodie plugin that sends multipart emails",
   "dependencies": {},
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "worker.js",
   "repository": {
     "type": "git",
