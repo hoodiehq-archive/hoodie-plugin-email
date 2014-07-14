@@ -16,4 +16,4 @@ hoodie.email.send({
 ```
 
 Before sending email can be used, you need to configure
-an email service in pocket.
+an email service in the Admin Dashboard.
