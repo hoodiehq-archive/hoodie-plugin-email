@@ -1,5 +1,5 @@
-Hoodie E-Mail Plugin
-======================
+# Hoodie E-Mail Plugin
+[![Build Status](https://travis-ci.org/hoodiehq/hoodie-plugin-email.svg)](https://travis-ci.org/hoodiehq/hoodie-plugin-email)
 
 Allow your users to send multipart emails, right from
 the browser.
@@ -15,5 +15,4 @@ hoodie.email.send({
 })
 ```
 
-Before sending email can be used, you need to configure
-an email service in the Admin Dashboard.
+Before sending email can be used, you need to configure an email service in the Admin Dashboard.
